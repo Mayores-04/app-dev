@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-## Always My General {#(https://mydramalist.com/771433-bu-fu-jiang-jun-bu-fu-qing)}
+## [Always My General] {https://mydramalist.com/771433-bu-fu-jiang-jun-bu-fu-qing}
 ### Native Title: 不负将军不负卿
 
 - Also Known As: Bu Fu Jiang Jun Bu Fu Qing , Всегда мой генерал , 不負將軍不負卿 <br />
